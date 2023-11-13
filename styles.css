@@ -48,6 +48,7 @@ body {
 }
 
 .container h1 {
+    font-size: 1.8rem;
     color: var(--dark-blue);
     text-align: center;
     margin: 1rem 0;
